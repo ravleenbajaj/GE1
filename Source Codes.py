@@ -372,9 +372,7 @@ def main():
                     a[i]='#'
         for e in a:
             s=s+e
-        print('the new string=',s)
-   
-        
+        print('the new string=',s)    
     elif ch==4:
          b=input('Enter a string=')
         c=0
